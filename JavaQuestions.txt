@@ -1,0 +1,31 @@
+	
+
+JAVA QUESTIONS
+	1.  Why did you choose java?
+	2. Why Java is platform independent?
+	3. Constructor?
+	4. Abstract class Vs Interface ?
+	5. Static ?
+	6. Final-Finally-Finalize ?
+	7. Throw vs Throws ?
+	8. For loop ?
+	9. While vs Do-while ?
+	10. Break vs Continue ?
+	11. Array and String – Methods ?
+	12. String Buffer vs String Builder ?
+	13. Immutable vs Mutable ?
+	14. Collection vs Collections ?
+  	15. Iterator vs List Iterator ?
+	16. List vs Set vs Map ?
+	17. ArrayList vs LinkedList vs Vector ? 
+	18. Hashset vs linkedHashSet vs TreeSet ?
+	19. HashMap vs HashTable ?
+	20. Exception vs Error ?
+	21. Parent of all the Classes and Interfaces
+	22. pre-increment vs post-increment 	
+	23. Explain main method syntax? And, Can we change it?
+	24. Can static method be overridden?
+	25. Enum or Enumerator ?
+	26. Difference between Java 1.7 and 1.8 ?
+
+
